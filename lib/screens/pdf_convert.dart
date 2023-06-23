@@ -473,7 +473,7 @@ class _PDFConverterState extends State<PDFConverter> {
       ),
       bottomNavigationBar: Container(
         height: 85,
-        color: Colors.pink,
+        color: Colors.black
         child:Container(
 
           child: AdWidget(
